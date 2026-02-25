@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>404 - Página No Encontrada</title>
+  <script>
+    var path = window.location.pathname;
+    var newUrl = '/Sitio-Web-PUCE/' + path;
+    if (path.indexOf('/Sitio-Web-PUCE/') === -1) {
+      window.location.replace(newUrl);
+    } else {
+      window.location.replace('/Sitio-Web-PUCE/');
+    }
+  </script>
+</head>
+<body>
+  <p>Redirigiendo...</p>
+</body>
+</html>
