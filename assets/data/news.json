@@ -1,0 +1,183 @@
+[
+  {
+    "id": "1",
+    "title": "Cumbre Global aborda los principales desafíos del siglo XXI",
+    "excerpt": "Líderes mundiales se reúnen para discutir estrategias conjuntas ante los retos climáticos, económicos y de seguridad internacional.",
+    "content": "<p>En una reunión histórica, líderes de más de 190 países se han dado cita para abordar los desafíos más apremiantes de nuestra era. La cumbre, que se celebra en la capital de un importante país europeo, tiene como objetivo principal encontrar soluciones coordinadas a problemas que trascienden fronteras.</p><h2>Objetivos de la Cumbre</h2><p>Los participantes han identificado tres áreas prioritarias: la acción climática, la recuperación económica post-pandemia y la estabilidad geopolítica. Cada delegación ha presentado sus propuestas y compromisos para los próximos diez años.</p><blockquote>«Esta es quizás la oportunidad más importante que tenemos para transformar nuestro futuro común» - Declaró el anfitrión del evento.</blockquote><h3>Compromisos Climáticos</h3><p>Se espera que los líderes firmen un nuevo acuerdo que acelere la transición hacia energías renovables y establezca metas más ambiciosas de reducción de emisiones para 2030.</p><p>Las discusiones continuarán durante toda la semana, con sesiones plenarias y reuniones bilaterales que buscarán construir consensos sobre los temas más controvertidos.</p>",
+    "category": "mundo",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200&h=600&fit=crop",
+    "author": "María González",
+    "date": "2026-02-24",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Mercados financieros muestran recuperación tras volatilidad",
+    "excerpt": "Los índices bursátiles世界各地 recuperan terreno después de semanas de incertidumbre, impulsados por datos económicos positivos.",
+    "content": "<p>Los principales mercados financieros mundiales han registrado ganancias significativas esta semana, revirtiendo la tendencia bajista que había preocupado a los inversores durante el mes pasado.</p><h2>Factores que Impulsan la Recuperación</h2><p>Los analistas señalan varios factores que han contribuido a esta recuperación: datos de empleo mejores de lo esperado, resultados corporativos sólido y la expectativa de políticas monetarias más flexibles.</p><p>El índice global de acciones ha subido un 3.2% esta semana, mientras que los mercados de bonos también han mostrado fortaleza.</p>",
+    "category": "economia",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=600&fit=crop",
+    "author": "Carlos Mendoza",
+    "date": "2026-02-23"
+  },
+  {
+    "id": "3",
+    "title": "Nueva inteligencia artificial revoluciona el sector sanitario",
+    "excerpt": "Investigadores desarrollan un sistema de IA capaz de detectar enfermedades con precisión sin precedentes.",
+    "content": "<p>Científicos de un importante instituto de investigación han presentado un nuevo sistema de inteligencia artificial que promete transformar el diagnóstico médico. El sistema ha demostrado una precisión del 98% en la detección temprana de diversas enfermedades.</p><h2>Cómo Funciona la Tecnología</h2><p>El sistema analiza imágenes médicas utilizando algoritmos de aprendizaje profundo, identificando patrones que podrían pasar desapercibidos para el ojo humano. Los investigadores señalan que esta herramienta no reemplaza a los médicos, sino que les proporciona información adicional para tomar mejores decisiones.</p><blockquote>«Estamos viendo el futuro de la medicina personalizada» - Afirmó el director del proyecto.</blockquote><p>La tecnología ya está siendo probada en varios hospitales y podría estar disponible para uso clínico en los próximos dos años.</p>",
+    "category": "tecnologia",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&h=600&fit=crop",
+    "author": "Ana Rodríguez",
+    "date": "2026-02-22"
+  },
+  {
+    "id": "4",
+    "title": "Gran finale de torneo internacional de fútbol",
+    "excerpt": "La selección champion se corona tras un partido vibrante que mantuvo en vilo a millones de espectadores.",
+    "content": "<p>En un partido que pasará a la historia, la selección de fútbol logró coronarse campeona del torneo internacional tras una final llena de emoción y jugadas memorables. El encuentro, que se disputó ante más de 80,000 espectadores, terminó con un marcador ajustado.</p><h2>El Partido</h2><p>Ambos equipos mostraron un nivel excepcional desde el primer minuto. La intensidad del juego mantuvo a los aficionados al borde de sus asientos hasta el último minuto de descuento.</p><p>El gol decisive llegó en el minuto 88, desatando la celebración entre los aficionados del equipo campeón.</p>",
+    "category": "deportes",
+    "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=1200&h=600&fit=crop",
+    "author": "Pedro Sánchez",
+    "date": "2026-02-21"
+  },
+  {
+    "id": "5",
+    "title": "Avances en energías renovables reducen costos globalmente",
+    "excerpt": "El costo de la energía solar y eólica cae a niveles históricos, acelerando la transición energética mundial.",
+    "content": "<p>Un nuevo informe revela que los costos de generación de energía renovable han alcanzado niveles sin precedentes, haciendo que estas tecnologías sean más accesibles que nunca. La energía solar ahora es más barata que el carbón en la mayoría de los países.</p><h2>Impacto Global</h2><p>Esta reducción de costos está impulsando una adopción masiva de energías limpias en países tanto desarrollados como en desarrollo. Se espera que las energías renovables representen más del 50% de la capacidad energética global para 2030.</p>",
+    "category": "economia",
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=1200&h=600&fit=crop",
+    "author": "Laura Martínez",
+    "date": "2026-02-20"
+  },
+  {
+    "id": "6",
+    "title": "Descubren nueva especie marina en aguas profundas",
+    "excerpt": "Expedición científica revela ecosistemas desconocidos en las profundidades oceánicas.",
+    "content": "<p>Un equipo internacional de oceanógrafos ha descubierto más de 30 nuevas especies marinas durante una expedición de seis meses a las profundidades del océano Pacífico. Los hallazgos revelan ecosistemas complejos que desafían nuestra comprensión de la vida en la Tierra.</p><h2>Hallazgos Sorprendentes</h2><p>Entre las especies descubiertas se encuentran peces con bioluminiscencia única, invertebrados nunca antes clasificados y microorganismos que podrían tener aplicaciones médicas revolucionarias.</p>",
+    "category": "tecnologia",
+    "image": "https://images.unsplash.com/photo-1551244072-5d12893278ab?w=1200&h=600&fit=crop",
+    "author": "Dr. Roberto Hayes",
+    "date": "2026-02-19"
+  },
+  {
+    "id": "7",
+    "title": "Tensión diplomática en región estratégica",
+    "excerpt": "Las negociaciones internacionales buscan reducir la escalada de tensiones en zona geopolítica clave.",
+    "content": "<p>La comunidad internacional observa con preocupación la evolución de los acontecimientos en una de las regiones más estratégicamente importantes del mundo. Las potencias mundiales han iniciado negociaciones diplomáticas para encontrar una solución pacífica.</p><h2>Contexto del Conflicto</h2><p>Los analistas señalan que el origen del conflicto se remonta a tensiones históricas no resueltas, agravadas por factores económicos y políticos recientes. La situación ha generado preocupación en los mercados internacionales.</p>",
+    "category": "mundo",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200&h=600&fit=crop",
+    "author": "Javier Torres",
+    "date": "2026-02-18"
+  },
+  {
+    "id": "8",
+    "title": "Atleta establece nuevo récord mundial en atletismo",
+    "excerpt": "El corredor rompe una marca quedataba de hace tres décadas con una actuación histórica.",
+    "content": "<p>En una jornada que será recordada por siempre en el mundo del deporte, un atleta ha establecido un nuevo récord mundial en una de las pruebas más exigentes del atletismo. La marca anterior duraba más de 30 años.</p><h2>Una Actuación Histórica</h2><p>El corredor completó la prueba con un tiempo que superó todas las expectativas, dejando boquiabiertos a los expertos y estableciendo un nuevo estándar para las futuras generaciones de atletas.</p>",
+    "category": "deportes",
+    "image": "https://images.unsplash.com/photo-1461896836934- voices-47d8a57e1c?w=1200&h=600&fit=crop",
+    "author": "Miguel Fernández",
+    "date": "2026-02-17"
+  },
+  {
+    "id": "9",
+    "title": "Elon Musk presenta el próximo特斯拉",
+    "excerpt": "ElCEO revela detalles del vehículo eléctrico más esperado del año con características innovadorass.",
+    "content": "<p>La compañía líder en vehículos eléctricos ha presentado su nuevo modelo, que promete revolucionar la industria automotriz con características nunca antes vistas. El vehículo combina rendimiento excepcional con tecnología de vanguardia.</p><h2>Innovaciones Destacadas</h2><p>Entre las características más destacadas se encuentran una autonomía superior a 800 kilómetros, capacidad de carga ultrarrápida y un sistema de conducción autónoma de nivel 4. El diseño exterior e interior ha sido completamente renovado.</p>",
+    "category": "tecnologia",
+    "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1200&h=600&fit=crop",
+    "author": "Sofia Chen",
+    "date": "2026-02-16"
+  },
+  {
+    "id": "10",
+    "title": "Crecimiento económico supera expectativas en América Latina",
+    "excerpt": "La región registra su mayor expansión en una década impulsada por comercio y inversión.",
+    "content": "<p>Las economías latinoamericanas han mostrado un rendimiento mejor de lo esperado durante el último trimestre, con un crecimiento promedio superior al 3% en la mayoría de los países de la región. Los sectores de servicios y exportaciones han sido los principales motores de esta recuperación.</p><h2>Factores del Crecimiento</h2><p>Los analistas destacan el aumento del comercio internacional, la recuperación del turismo y las reformas estructurales implementadas en varios países como los principales factores detrás de este buen desempeño económico.</p>",
+    "category": "economia",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&h=600&fit=crop",
+    "author": "Diego Ramírez",
+    "date": "2026-02-15"
+  },
+  {
+    "id": "11",
+    "title": "Campamento de refugiados alcanza hito histórico",
+    "excerpt": "Programa de integración logra que miles de familias encuentren hogar permanente.",
+    "content": "<p>Un programa piloto de integración de refugiados ha alcanzado un éxito sin precedentes, logrando que más de 10,000 familias encuentren hogares permanentes en los últimos dos años. El programa combina apoyo habitacional con oportunidades de empleo y educación.</p><h2>Modelo a Seguir</h2><p>Las organizaciones internacionales han mostrado interés en replicar este modelo en otras regiones del mundo. Los participantes en el programa reportan una mejora significativa en su calidad de vida y sensación de pertenencia.</p>",
+    "category": "mundo",
+    "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1200&h=600&fit=crop",
+    "author": "Carmen López",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "12",
+    "title": "Campeonato de tennis revela新一代 estrellas",
+    "excerpt": "Jugadores jóvenes dominanel torneo superando a favoritos establecidos.",
+    "content": "<p>El tradicional torneo de tennis ha sido escenario de una revolución generacional, con jugadores menores de 22 años eliminando a algunos de los favoritos del cuadro principal. Las jóvenes promesas han mostrado un nivel de juego excepcional.</p><h2>El Futuro del Deporte</h2><p>Los analistas señalan que estos jóvenes jugadores dominan tanto la técnica como la táctica, y cuentan con una preparación física que supera los estándares de generaciones anteriores. El torneo promete ser uno de los más competitivos en la historia reciente.</p>",
+    "category": "deportes",
+    "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=1200&h=600&fit=crop",
+    "author": "Andrea Williams",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "13",
+    "title": "Red 6G establece nuevos estándares de conectividad",
+    "excerpt": "La próxima generación de redes móviles promete velocidades 100 veces superiores a 5G.",
+    "content": "<p>Los principales operadores de telecomunicaciones han anunciado los primeros estándares de la red 6G, que promete transformar completamente la conectividad móvil. Las velocidades previstas serán 100 veces superiores a las actuales redes 5G.</p><h2>Aplicaciones Revolucionarias</h2><p>Esta tecnología permitirá avances en áreas como cirugía remota, vehículos autónomos y realidades virtuales inmersivas. Se espera que los primeros despliegues comerciales comiencen antes de 2030.</p>",
+    "category": "tecnologia",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=600&fit=crop",
+    "author": "Kevin Park",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "14",
+    "title": "Copa Internacional de natacion registra marcas históricas",
+    "excerpt": "Atletas de élite logran tiempos que acercan a la humanidad a nuevos límites.",
+    "content": "<p>La competencia internacional de natación ha registrado algunas de las marcas más rápidas en la historia de este deporte. Varios atletas lograron tiempos que were considered impossible hace apenas unos años.</p><h2>Preparación Científica</h2><p>Los expertos atribuyen estos resultados a los avances en nutrición, entrenamiento y tecnología de trajes de baño. Los atletas ahora pueden entrenar con análisis de datos en tiempo real que optimizan cada aspecto de su preparación.</p>",
+    "category": "deportes",
+    "image": "https://images.unsplash.com/photo-1519315901367-f34f9150fa56?w=1200&h=600&fit=crop",
+    "author": "Lucas Oliveira",
+    "date": "2026-02-11"
+  },
+  {
+    "id": "15",
+    "title": "Acuerdo comercial histórico entre principales economías",
+    "excerpt": "El pacto reducirá aranceles y facilitará el flujo de comercio entre los países firmantes.",
+    "content": "<p>Después de meses de negociaciones, las mayores economías del mundo han firmado un acuerdo comercial que promete transformar el comercio internacional. El pacto eliminará o reducirá aranceles en miles de productos.</p><h2>Beneficios del Acuerdo</h2><p>Se espera que el acuerdo genere miles de millones de dólares en comercio adicional y cree millones de empleos en los países participantes. Los sectores más beneficiados serán la manufactura, tecnología y servicios.</p>",
+    "category": "economia",
+    "image": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=1200&h=600&fit=crop",
+    "author": "Patricia Wang",
+    "date": "2026-02-10"
+  },
+  {
+    "id": "16",
+    "title": "Misión espacial descubre agua en planeta cercano",
+    "excerpt": "El hallazgo aumenta las probabilidades de encontrar vida extraterrestre en el futuro.",
+    "content": "<p>La misión espacial internacional ha confirmado la presencia de agua líquida en un exoplaneta ubicado a apenas 40 años luz de la Tierra. Este descubrimiento representa un avance significativo en la búsqueda de planetas habitables.</p><h2>Implicaciones Científicas</h2><p>Los científicos señalan que el planeta reúne varias condiciones que podrían ser adecuadas para la vida: temperatura moderada, atmósfera y ahora agua líquida. Las observaciones adicionales continuarán en los próximos meses.</p>",
+    "category": "tecnologia",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=1200&h=600&fit=crop",
+    "author": "Dr. Elena kos",
+    "date": "2026-02-09"
+  },
+  {
+    "id": "17",
+    "title": "Foro Mundial de leaders aborda futuro de la democracia",
+    "excerpt": "Políticos y académicos debaten sobre los desafíos actuales de los sistemas democráticos.",
+    "content": "<p>El foro anual de líderes mundiales ha dedicado su edición de este año a discutir el futuro de la democracia en una era de cambios rápidos. Participaron mandatarios, académicos y representantes de la sociedad civil.</p><h2>Temas en Discusión</h2><p>Entre los principales temas figuraron la desinformación digital, la polarización política, la reforma electoral y el papel de las redes sociales en los procesos democráticos. Los participantes buscan propuestas concretas para fortalecer las instituciones democráticas.</p>",
+    "category": "mundo",
+    "image": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=1200&h=600&fit=crop",
+    "author": "Isabella Moretti",
+    "date": "2026-02-08"
+  },
+  {
+    "id": "18",
+    "title": "Estadio inteligente revoluciona experiencia deportiva",
+    "excerpt": "La nueva tecnologia ofrece a los aficionados una experiencia inmersiva sin precedentes.",
+    "content": "<p>Un estadio de última generación ha abierto sus puertas con tecnología de punta que transforma la forma en que los aficionados experimentan los eventos deportivos. El recinto cuenta con pantallas envolventes, conectividad 6G y sistemas de realidad aumentada.</p><h2>Experiencia Inmersiva</h2><p>Los asistentes pueden acceder a estadísticas en tiempo real, ver repeticiones desde múltiples ángulos y sogar personalizar su experiencia de audio. El estadio también cuenta con asientos con pantalla integrada.</p>",
+    "category": "deportes",
+    "image": "https://images.unsplash.com/photo-1577223625816-7546f13df25d?w=1200&h=600&fit=crop",
+    "author": "Tomás Herrera",
+    "date": "2026-02-07"
+  }
+]
